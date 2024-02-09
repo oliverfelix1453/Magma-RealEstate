@@ -5,7 +5,7 @@ Welcome to Magma Real Estate Clone, a project by Oliver Felix aiming to replicat
 ## Description
 
 This website is a clone of the original Magma Real Estate platform, designed and developed to showcase properties, facilitate property searches, and provide information about real estate services. The project is created as a learning exercise and demonstration of web development skills.
-Live at: [Github Pages]([https://thisismagma.com/](https://oliverfelix1453.github.io/Magma-RealEstate/))
+Live at: [Github Pages](https://oliverfelix1453.github.io/Magma-RealEstate/)
 
 ## Technologies Used
 
